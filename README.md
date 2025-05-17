@@ -52,5 +52,3 @@ This repository documents the design and characterization of a custom standard c
 - **PrimeTime** – Static timing analysis
 - **PrimeLib** – .lib and .db generation
 - **Innovus** – Place and route
-
-## File Structure
